@@ -140,6 +140,7 @@ a:hover {
   padding-top: 30vh;
   text-align: center;
   background-image: url(../img/henry-co-a2VJlQ3yxmQ-unsplash.jpg);
+  width: auto;
 }
 
 .baner-content h1 {
